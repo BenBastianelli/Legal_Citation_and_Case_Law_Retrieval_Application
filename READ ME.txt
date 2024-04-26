@@ -1,0 +1,12 @@
+How to use:
+Since your a little dope and will probably need help figuring out how to open this I've written a guide :)
+
+1)download the dist.zip file from this repository
+
+2)right click the file and click extract all(if your doing it on your Virtual machine) if your doing it on mac just double click the folder to decompress it
+
+3)drag click the download onto your desktop from your file explorer for easier access (Optional)
+
+4)whenever you want to use it double click the cases.exe (exe stands for executable it just makes it so you dont have to install python to run it)
+
+5) after your terminal pops up for a couple seconds the program should run, Don't close the terminal ever (it'll close the program) just click the X at the top left of the program when your done with it
