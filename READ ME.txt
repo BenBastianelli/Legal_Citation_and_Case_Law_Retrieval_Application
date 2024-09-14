@@ -1,5 +1,4 @@
 How to use:
-Since your a little dope and will probably need help figuring out how to open this I've written a guide :)
 
 1)download the dist.zip file from this repository
 
@@ -7,6 +6,11 @@ Since your a little dope and will probably need help figuring out how to open th
 
 3)drag click the download onto your desktop from your file explorer for easier access (Optional)
 
-4)whenever you want to use it double click the cases.exe (exe stands for executable it just makes it so you dont have to install python to run it)
+4)whenever you want to use it double click the cases.exe (exe stands for executable it just makes it so you dont have to install a python IDE to run it)
 
 5) after your terminal pops up for a couple seconds the program should run, Don't close the terminal ever (it'll close the program) just click the X at the top left of the program when your done with it
+
+How to use the Search Engine:
+1. in the "Enter article number (1 - 50): " box enter any article of the irish constitution between 1 and 50
+2. press enter and the program will return any cases mentioning it in it's database in the white box below 
+3. double click any case name that appears to open a text file that contains the case citation
